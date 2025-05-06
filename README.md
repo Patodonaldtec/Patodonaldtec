@@ -1,6 +1,6 @@
 # 🐼 João Victor
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Oi, meu nome é João e sou professor de matemática/Tecnologia/Educação Financeira!
 Sou professor há 4 anos, leciono aulas de tecnologia e inovação faz dois anos e acredito que aprenderei cada vez mais.
